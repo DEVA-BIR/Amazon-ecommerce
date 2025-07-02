@@ -1,0 +1,56 @@
+.middle-wrapper {
+      color: #fff;
+      font-weight: 750;
+      font-family: "Amazon Ember", Arial, sans-serif;
+      margin-bottom: 30px;
+    }
+    .upper-text-container {
+      border-bottom: 1px solid #d2d2d7;
+      color: #fff;
+      padding: 17px 0 20px;
+      
+      
+    }
+    .upper-text-container a {
+        text-decoration: none;
+        color: #FFFFFF; 
+        
+        
+    }
+    .upper-text-container a:hover {
+        text-decoration: underline;
+       
+    }
+    .middle-Index-wrapper {
+        display: flex;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      padding-top: 20px;
+      background-color: #131A29;
+      margin-bottom: 100px;
+
+    }
+    .middle-wrapper ul {
+        list-style: none;
+        padding-bottom: 20px;
+    }
+    .middle-wrapper ul li{
+        padding: 5px 0;
+        font-size: 0.9em;
+    }
+    .middle-Index-wrapper a {
+        color: #cccccc;
+        text-decoration: none;
+        font-size: 12px;
+    }
+    .middle-Index-wrapper a:hover {
+        text-decoration: underline;
+    }
+    .middle-Index-wrapper h3 {
+        font-size: 16px;
+        font-weight: 600;
+        padding-top: 10px;
+    }
+    
+    
+    
